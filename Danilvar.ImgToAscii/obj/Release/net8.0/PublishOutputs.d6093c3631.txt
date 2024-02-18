@@ -1,0 +1,6 @@
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\Danilvar.ImgToAscii.exe
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\Danilvar.ImgToAscii.dll
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\Danilvar.ImgToAscii.deps.json
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\Danilvar.ImgToAscii.runtimeconfig.json
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\Danilvar.ImgToAscii.pdb
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\publish\SixLabors.ImageSharp.dll

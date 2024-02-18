@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0JqWPjh9MT1LpTrub3+Yc2fIdf4z7A7TlsMFReRYKlTr0wyrgl3Skb6iFYEGwNL/oTYJq002xBm5uoYpb5ZcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\RiderProjects\\Danilvar.ImgToAscii\\Danilvar.ImgToAscii\\Danilvar.ImgToAscii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\Danilvar.ImgToAscii.exe
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\Danilvar.ImgToAscii.deps.json
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\Danilvar.ImgToAscii.runtimeconfig.json
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\Danilvar.ImgToAscii.dll
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\Danilvar.ImgToAscii.pdb
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\bin\Release\net8.0\SixLabors.ImageSharp.dll
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.csproj.CopyComplete
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.dll
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\refint\Danilvar.ImgToAscii.dll
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.pdb
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\Danilvar.ImgToAscii.genruntimeconfig.cache
+C:\Users\danil\RiderProjects\Danilvar.ImgToAscii\Danilvar.ImgToAscii\obj\Release\net8.0\ref\Danilvar.ImgToAscii.dll
